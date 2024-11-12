@@ -1,7 +1,6 @@
 # **OSINT - Projetos e Atividades**
 
 Este repositório contém uma série de projetos e atividades realizados utilizando técnicas de Open Source Intelligence (OSINT). OSINT envolve a coleta e análise de informações de fontes públicas e acessíveis na internet, com o objetivo de obter dados úteis de forma ética e legal. Este repositório visa compartilhar práticas, metodologias e exemplos de investigação realizados em sala de aula e em projetos diversos.
-Descrição dos Projetos
 
 Os projetos contidos neste repositório cobrem uma variedade de abordagens e ferramentas utilizadas em investigações OSINT, incluindo:
 
